@@ -1,8 +1,41 @@
 <h1 align="center">Hi 👋, I'm Guilherme Reinol</h1>
 <h3 align="center">A Fullstack developer from world</h3>
 
-- 🔭 I’m currently working on [Essenziale Beauty salon](https://github.com/guibbv2011/essenziale)
-- 🧠 Solving problems on [LeetCode](https://leetcode.com/u/guibbv2011/)
+* ##### 🔭 I’m currently working on [Essenziale Beauty salon](https://github.com/guibbv2011/essenziale)
+> This project is a fullstack project, so let's talk about both sides
+> * **Backend:**
+>> - I'm using dart with shelf framework as a server.
+>> - Deployed a image Docker on the Cloud Run with Storage as database.
+>> - With this project I build a package helper called: [Shelf Dynamic Forwarder](https://pub.dev/packages/shelf_dynamic_forwarder), that's handles your dynamic router without using the mount that's needed to get a static path.
+
+> * **Frontend:** Comming soon..
+>> - Disclaimer: Will be deployed to wasm.
+
+* ##### 🧪 Already Deployed to internal test on Play console [Risk Management Chart](https://github.com/guibbv2011/Risk-Management-Chart)
+> A comprehensive Flutter application designed for traders who need to monitor their trading performance and manage risk effectively. This app implements professional risk management principles with real-time calculations and dynamic balance tracking.
+
+> * 📊 **Real-Time Trading Dashboard:**
+>> - Interactive P&L Chart: Visual representation of cumulative profit/loss over time
+>> - Dynamic Balance Tracking: Real-time account balance updates after each trade
+>> - Trailing Drawdown Feature: Your drawdown limits are dynamically adjusted based on trading performance.
+>> - Risk Status Indicator: Color-coded risk levels (Low, Medium, High, Critical)
+
+> * 🏗️ **Architecture:**
+>> - MVVM Pattern: Clean separation of concerns
+>> - Reactive State Management: Uses Signals for efficient state updates
+>> - Repository Pattern: Abstracted data layer for easy testing and maintenance
+>> - Service Layer: Business logic encapsulation
+>> - Component-based UI: Reusable widgets and components
+>> - Cross-Platform Storage: IndexedDB on web, SQLite on native platforms
+
+* ##### 👨‍💻 First freelance project [Planting Notebook | Caderno de Campo](https://github.com/guibbv2011/caderno_de_campo/tree/changes_to_overview_feature/lib)
+> * **Features:**
+>> - Realtime Reactive UI: In this project I used Result and Command in a MVVM architecture.
+>> - SQFlite as a storage.
+>> - Geolocation (GPS): Needed to track user realtime position to our API.
+>> - [OpenMeteo API](https://open-meteo.com/): Consuming weather data that the user needs to know.
+
+- ##### 🧠 Solving problems on [LeetCode](https://leetcode.com/u/guibbv2011/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
