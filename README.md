@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Reinol</h1>
-<h3 align="center">A Fullstack developer from world</h3>
+<h3 align="center">A Fullstack developer from around the world 🌎 </h3>
 
 * ##### 🔭 I’m currently working on [Essenziale Beauty salon](https://github.com/guibbv2011/essenziale)
 > This project is a fullstack project, so let's talk about both sides
