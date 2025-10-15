@@ -2,6 +2,7 @@
 <h3 align="center">A Fullstack developer from world</h3>
 
 - 🔭 I’m currently working on [Essenziale Beauty salon](https://github.com/guibbv2011/essenziale)
+- 🧠 Solving problems on [LeetCode](https://leetcode.com/u/guibbv2011/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
